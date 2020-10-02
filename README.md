@@ -1,1 +1,1 @@
-# Node.js_Study
+# Node.js学習の成果物管理用リポジトリ
